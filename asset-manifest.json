@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SyedWasiHaider/my-page/static/css/main.a617e044.chunk.css",
+    "main.js": "/SyedWasiHaider/my-page/static/js/main.5be0878b.chunk.js",
+    "main.js.map": "/SyedWasiHaider/my-page/static/js/main.5be0878b.chunk.js.map",
+    "runtime-main.js": "/SyedWasiHaider/my-page/static/js/runtime-main.5967e7d3.js",
+    "runtime-main.js.map": "/SyedWasiHaider/my-page/static/js/runtime-main.5967e7d3.js.map",
+    "static/js/2.ba9482ea.chunk.js": "/SyedWasiHaider/my-page/static/js/2.ba9482ea.chunk.js",
+    "static/js/2.ba9482ea.chunk.js.map": "/SyedWasiHaider/my-page/static/js/2.ba9482ea.chunk.js.map",
+    "static/js/3.106499ed.chunk.js": "/SyedWasiHaider/my-page/static/js/3.106499ed.chunk.js",
+    "static/js/3.106499ed.chunk.js.map": "/SyedWasiHaider/my-page/static/js/3.106499ed.chunk.js.map",
+    "index.html": "/SyedWasiHaider/my-page/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/SyedWasiHaider/my-page/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.ba9482ea.chunk.js.LICENSE.txt": "/SyedWasiHaider/my-page/static/js/2.ba9482ea.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/SyedWasiHaider/my-page/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5967e7d3.js",
+    "static/js/2.ba9482ea.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.5be0878b.chunk.js"
+  ]
+}
