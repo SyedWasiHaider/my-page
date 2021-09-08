@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SyedWasiHaider/my-page/static/css/main.a617e044.chunk.css",
-    "main.js": "/SyedWasiHaider/my-page/static/js/main.5be0878b.chunk.js",
-    "main.js.map": "/SyedWasiHaider/my-page/static/js/main.5be0878b.chunk.js.map",
+    "main.js": "/SyedWasiHaider/my-page/static/js/main.4cd0ee14.chunk.js",
+    "main.js.map": "/SyedWasiHaider/my-page/static/js/main.4cd0ee14.chunk.js.map",
     "runtime-main.js": "/SyedWasiHaider/my-page/static/js/runtime-main.5967e7d3.js",
     "runtime-main.js.map": "/SyedWasiHaider/my-page/static/js/runtime-main.5967e7d3.js.map",
     "static/js/2.ba9482ea.chunk.js": "/SyedWasiHaider/my-page/static/js/2.ba9482ea.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.5967e7d3.js",
     "static/js/2.ba9482ea.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.5be0878b.chunk.js"
+    "static/js/main.4cd0ee14.chunk.js"
   ]
 }
